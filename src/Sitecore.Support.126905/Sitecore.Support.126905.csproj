@@ -51,19 +51,9 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
-    <Compile Include="obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <Content Include="obj\Debug\Package\PackageTmp\bin\Sitecore.Support.126905.dll.config" />
-    <Content Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <Content Include="packages.config" />
     <None Include="web.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
@@ -73,25 +63,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Sitecore.Support.126905.dll" />
-    <Content Include="bin\Sitecore.Support.126905.dll.config" />
-    <Content Include="bin\Sitecore.Support.126905.pdb" />
-    <Content Include="obj\Debug\Package\PackageTmp\bin\Sitecore.Support.126905.dll" />
-    <Content Include="obj\Debug\Package\PackageTmp\bin\Sitecore.Support.126905.pdb" />
-    <Content Include="obj\Debug\Package\PackageTmp\sitecore\shell\Themes\Standard\Default\Default.css" />
-    <Content Include="obj\Debug\Sitecore.Support.126905.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\Sitecore.Support.126905.dll" />
-    <Content Include="obj\Debug\Sitecore.Support.126905.pdb" />
-    <Content Include="obj\Debug\_WPPLastBuildInfo.txt" />
-    <Content Include="obj\Release\Sitecore.Support.126905.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Release\Sitecore.Support.126905.dll" />
-    <Content Include="obj\Release\Sitecore.Support.126905.pdb" />
+    <Content Include="packages.config" />
     <Content Include="sitecore\shell\Themes\Standard\Default\Default.css" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="obj\Debug\TempPE\" />
-    <Folder Include="obj\Release\TempPE\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
